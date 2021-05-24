@@ -3,7 +3,7 @@
 
 This is the base code for the workshop.
 
-It is a samll python code file containing the base code you will need to carry out the work in the workshop.
+It is a small python code file containing the base code you will need to carry out the work in the workshop.
 
 ## What You Need To Do
 
